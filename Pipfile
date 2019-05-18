@@ -9,6 +9,9 @@ awscli = "*"
 
 [packages]
 sklearn = "*"
+jupyter = "*"
+numpy = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.6"
